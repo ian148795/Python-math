@@ -1,0 +1,27 @@
+Refreshers 
+a) Berry Refresher  $49
+b) Lemon Refresher  $49
+
+Tes
+c) Te Chai  $45
+d) Chamomile $45
+e) Te Verde $45
+f) English Breakfast $45
+
+Frapuccinos
+g) Caramel Frapuccino $52
+h) Mocha Frapuccino $52
+i) Cajeta Frapuccino $52
+j) Cafe Frapuccino $52
+k) Chip Frapuccino $52
+l) Te chai Frapuccino $52
+
+Cafes
+m) Mocha Coconut $54
+n) Flat White $52
+o) Capuccino $50
+p) Espresso Americano $42
+q) Helado Espresso Americano $45
+r) Cafe Mocha $52
+s) Helado Cafe Mocha $52
+t) Cafe Latte $42

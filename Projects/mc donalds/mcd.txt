@@ -1,0 +1,22 @@
+Menu de Mcdonalds
+
+Hamburguesas:
+
+	a) Big Mac   $60
+ 	b) McPollo   $60
+        c) Angus Premium Deluxe $47
+	
+Papas y Acompañantes: 
+
+	d) Papas a la francesa $20
+	e) Mc. Patatas     $25
+
+Bebidas: 
+
+	f) Refrescos $20
+Postres: 
+
+	g) Cono Sencillo  $10
+	h) McFlurry       $30
+	
+
